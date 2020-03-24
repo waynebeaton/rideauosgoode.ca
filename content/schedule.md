@@ -4,12 +4,11 @@ menu:
   main:  {
     weight: 40
   }
-featured_image: /images/rideauosgoode.png
 ---
 
-We have classes most days of the week. During the week, our classes are in the evening, generally starting at 6:30. The typical schedule of classes is listed below. Exceptions are noted in our [calendar](calendar.html).
+We have classes most days of the week. During the week, our classes are in the evening, generally starting at 6:30. The typical schedule of classes is listed below. Exceptions are noted in our [calendar](/calendar).
 
-Youth/[Family classes](family.html) are appropriate for all ages. Parents are encouraged to attend with their children. Family classes are generally oriented to our younger students, but we do also normally leverage our relatively high teacher/student ratio to split classes into age and/or rank appropriate groups.
+[Youth and family](/family) classes are appropriate for all ages. Parents are encouraged to attend with their children. Family classes are generally oriented to our younger students, but we do also normally leverage our relatively high teacher/student ratio to split classes into age and/or rank appropriate groups.
 
 Adult classes are intended for students in their late teens and older. Theses classes over a higher level of intensity and generally more technical instruction.
 
@@ -54,23 +53,3 @@ Members are invited to attend as many classes as they'd like (though we do recom
 ## Sunday
 
 1:00-2:00pm Black Belt Kobudo
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

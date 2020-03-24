@@ -4,7 +4,6 @@ menu:
   main:  {
     weight: 60
   }
-featured_image: /images/rideauosgoode.png
 ---
 
 ## Chief Instructor
@@ -13,9 +12,9 @@ Shihan **Wayne Beaton**, Rokudan 6th degree black belt (EMAC), started his mar
 
 ![Shihan Wayne Beaton with Shihan Dan Bailey](/images/WayneAndDan.JPG#right)
 
-Wayne has studied Wado Ryu Karate, Shotokan Karate, Chito Ryu Karate, but has focused on Jundokan Goju Ryu Karate. He holds a Shodan (first degree black belt) rank in Jiu Jitsu and has recently begun serious training in Okinawa Kobudo Doushi Rensei-kai®.
+Wayne has studied Wado Ryu Karate, Shotokan Karate, Chito Ryu Karate, but has focused on Jundokan Goju Ryu Karate. He holds a Shodan (first degree black belt) rank in Jiu Jitsu and in Okinawa Kobudo Doushi Rensei-kai®.
 
-Wayne has been a direct student of Sensei Albert Either, Kyoshi Mike Sywyk and Shihan Dan Bailey since 1991. Wayne has trained and studied with Sensei Masami Tsuruoka, Sensei Ron Yamanaka, Sensei Tetsunosuke Yasuda, Sensei Tsuneo Kinjo, Sensei Tetsu Gima, Sensei Masaji Taira, Sensei Jean Frenette, Shihan Jack Donovan, Renshi Laura Sywyk, and many others.
+Wayne has been a direct student of Sensei Albert Either, Kyoshi Mike Sywyk and Shihan Dan Bailey since 1991. Wayne has trained and studied with Sensei Masami Tsuruoka, Sensei Ron Yamanaka, Sensei Tetsunosuke Yasuda, Sensei Tsuneo Kinjo, Sensei Tetsu Gima, Sensei Masaji Taira, Sensei Jean Frenette, Shihan Jack Donovan, Kyoshi Laura Sywyk, and many others.
 
 Wayne believes that the Dojo should be place of serious learning and training, but should also be fun, friendly, and inviting.
 
@@ -23,9 +22,10 @@ Wayne believes that the Dojo should be place of serious learning and training, b
 
 * **Dan Baily**, Rokudan 6th degree black belt
 
-## Assistant Chief Instructor
+## Assistant Chief Instructors
 
 * **Lou Kabesh**, Yondan 4th degree black belt
+* **Christine Stigter**, Sandan 3rd degree black belt
 
 ## [Karate](/karate)
 
@@ -35,11 +35,10 @@ Wayne believes that the Dojo should be place of serious learning and training, b
 ### Karate Instructors
 * **Cynthia Kitson**, Yondan 4th degree black belt
 * **Stephen McClellan**, Sandan 3rd degree black belt
-* **Devon Valentine**, Sandan 3rd degree black belt
 * **Christine Stigter**, Sandan 3rd degree black belt
-* **Lesley Cushing**, Nidan 2nd degree black belt
+* **Devon Valentine**, Sandan 3rd degree black belt
 * **Jamie Munro**, Nidan 2nd degree black belt
-* **Katie Stigter**, Shodan 2nd degree black belt
+* **Katie Stigter**, Nidan 2nd degree black belt
 
 ## [JiuJitsu](/jiujitsu)
 
@@ -50,7 +49,6 @@ Wayne believes that the Dojo should be place of serious learning and training, b
 * **Rick Schwartzburg**, Sandan 3rd degree black belt
 * **Isaac Schwartzburg**, Sandan 3rd degree black belt
 * **Lou Kabesh**, Sandan 3rd degree black belt
-* **Lauren Rowland**, Shodan 1st degree black belt
 
 ## [Kobudo](/kobudo) Instructors
 
@@ -60,6 +58,5 @@ Wayne believes that the Dojo should be place of serious learning and training, b
 ### Kobudo Instructors
 * **Cynthia Kitson**, Sandan 3rd degree black belt
 * **Ken Parry**, Sandan 3rd degree black belt
-* **Lesley Cushing**, Sandan 3rd degree black belt
-* **Christine Stigter**, Shodan 1st degree black belt
-* **Katie Stigter**, Shodan 1st degree black belt
+* **Christine Stigter**, Nidan 1st degree black belt
+* **Katie Stigter**, Nidan 1st degree black belt

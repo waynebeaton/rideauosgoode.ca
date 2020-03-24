@@ -4,7 +4,6 @@ menu:
   main:  {
     weight: 50
   }
-featured_image: /images/rideauosgoode.png
 ---
 
 **New members are welcome at any time.** Beginners are welcome to try a few classes before making any commitment. Please see our [schedule](/schedule).
