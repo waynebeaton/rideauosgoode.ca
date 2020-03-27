@@ -12,16 +12,27 @@ Please download and complete a [registration form](/forms/ROMACRegistrationForm.
 
 ## Training
 
+Existing members: all existing fees remain in place until December 2020.
+
 * **New Registration** **$300**
     * includes membership, uniform, and first three months of training
-* Renewal (twelve months, single payment) **$560**
-* Renewal (twelve months, monthly payments) 12x**$50**
+
+At the end of your first three months our renewal rate is:
+
+* Renewal (twelve months, single payment) **$600**
+* Renewal (twelve months, monthly payments) 12x**$55**
     * by post-dated cheques, dated for the first of each month
-*  Renewal (three months, single payment) **$175**
+*  Renewal (three months, single payment) **$195**
 
-Valid until end the of December 2018. Fees include all taxes. A 10% discount will be applied for families of three or more active members.
+Valid until end the of December 2020. Fees include all taxes. A 10% discount will be applied for families of three or more active members.
 
-All fees are due in advance. Make cheques out to “Rideau Osgoode Martial Arts Club”. Please date post-dated cheques for the first of the month.
+All fees are due in advance. 
+
+We accept:
+
+* E-transfers sent to [info@rideauosgoode.ca](info@rideauosgoode.ca) (please include the member name(s) in the message);
+* Cheques made out to “Rideau Osgoode Martial Arts Club” (please date post-dated cheques for the first of the month); or
+* Cash
 
 ## Seminars
 
