@@ -1,9 +1,16 @@
+article p, ul {
+	text-align: left;
+}
+
+
 img[src*='#left'] {
 	float: left;
+	padding-right: 10px;
 }
 
 img[src*='#right'] {
 	max-width: 250px;
+	padding-left: 10px;
 	float: right;
 }
 
@@ -52,4 +59,8 @@ tr:nth-child(even) {
 
 table thead tr {
 	background-color: #ffffff
+}
+
+blockquote p {
+	font-style: italic;
 }

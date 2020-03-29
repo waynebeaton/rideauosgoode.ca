@@ -6,6 +6,8 @@ menu:
   }
 ---
 
+> Our classes are all canceled while our community deals with COVID-19. We are running some virtual classes during this time. Please see the [calendar](/calendar) for more information.
+
 We have classes most days of the week. During the week, our classes are in the evening, generally starting at 6:30. The typical schedule of classes is listed below. Exceptions are noted in our [calendar](/calendar).
 
 [Youth and family](/family) classes are appropriate for all ages. Parents are encouraged to attend with their children. Family classes are generally oriented to our younger students, but we do also normally leverage our relatively high teacher/student ratio to split classes into age and/or rank appropriate groups.

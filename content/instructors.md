@@ -12,7 +12,7 @@ Shihan **Wayne Beaton**, Rokudan 6th degree black belt (EMAC), started his mar
 
 ![Shihan Wayne Beaton with Shihan Dan Bailey](/images/WayneAndDan.JPG#right)
 
-Wayne has studied Wado Ryu Karate, Shotokan Karate, Chito Ryu Karate, but has focused on Jundokan Goju Ryu Karate. He holds a Shodan (first degree black belt) rank in Jiu Jitsu and in Okinawa Kobudo Doushi Rensei-kai®.
+Wayne has studied Wado Ryu Karate, Shotokan Karate, Chito Ryu Karate, but has focused on Jundokan Goju Ryu Karate. He holds a Shodan (first degree black belt) rank in Jiu Jitsu and in Okinawa Kobudo Doushi Rensei-kai® (OKDR).
 
 Wayne has been a direct student of Sensei Albert Either, Kyoshi Mike Sywyk and Shihan Dan Bailey since 1991. Wayne has trained and studied with Sensei Masami Tsuruoka, Sensei Ron Yamanaka, Sensei Tetsunosuke Yasuda, Sensei Tsuneo Kinjo, Sensei Tetsu Gima, Sensei Masaji Taira, Sensei Jean Frenette, Shihan Jack Donovan, Kyoshi Laura Sywyk, and many others.
 
@@ -33,12 +33,15 @@ Wayne believes that the Dojo should be place of serious learning and training, b
 * **Ken Parry**, Yondan 4th degree black belt
 
 ### Karate Instructors
+* **Wayne Beaton**, Rokudan 6th degree black belt (EMAC)
+* **Dan Bailey**, Rokudan 6th degree black belt (EMAC)
 * **Cynthia Kitson**, Yondan 4th degree black belt
-* **Stephen McClellan**, Sandan 3rd degree black belt
-* **Christine Stigter**, Sandan 3rd degree black belt
-* **Devon Valentine**, Sandan 3rd degree black belt
-* **Jamie Munro**, Nidan 2nd degree black belt
-* **Katie Stigter**, Nidan 2nd degree black belt
+* **Stephen McClellan**, Sandan 3rd degree black belt (EMAC)
+* **Christine Stigter**, Sandan 3rd degree black belt (EMAC)
+* **Devon Valentine**, Sandan 3rd degree black belt (EMAC)
+* **Jamie Munro**, Nidan 2nd degree black belt (EMAC)
+* **Katie Stigter**, Nidan 2nd degree black belt (EMAC)
+* **Bob Moon**, Shodan 1st degree black belt
 
 ## [JiuJitsu](/jiujitsu)
 
@@ -47,16 +50,16 @@ Wayne believes that the Dojo should be place of serious learning and training, b
 
 ### JiuJitsu Instructors
 * **Rick Schwartzburg**, Sandan 3rd degree black belt
-* **Isaac Schwartzburg**, Sandan 3rd degree black belt
 * **Lou Kabesh**, Sandan 3rd degree black belt
 
 ## [Kobudo](/kobudo) Instructors
 
 ### Kobudo Head Instructor
-* **Stephen McClellan**, Sandan 3rd degree black belt
+* **Stephen McClellan**, Sandan 3rd degree black belt (OKDR)
 
 ### Kobudo Instructors
-* **Cynthia Kitson**, Sandan 3rd degree black belt
-* **Ken Parry**, Sandan 3rd degree black belt
-* **Christine Stigter**, Nidan 1st degree black belt
-* **Katie Stigter**, Nidan 1st degree black belt
+* **Cynthia Kitson**, Sandan 3rd degree black belt (OKDR)
+* **Ken Parry**, Sandan 3rd degree black belt (OKDR)
+* **Christine Stigter**, Nidan 2nd degree black belt (OKDR)
+* **Katie Stigter**, Nidan 2nd degree black belt (OKDR)
+* **Wayne Beaton**, Shodan 1st degree black belt (OKDR)

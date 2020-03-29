@@ -11,8 +11,6 @@ The tiny island of Okinawa—located in the East China Sea—was the birthplace
 
 While Goju Ryu is the primary style of Karate taught at the Rideau Osgoode Martial Arts, we also do katas (patterns) from the Shotokan and Chito Ryu systems. Our instructors come from diverse backgrounds and we've decided to maintain some elements from that diversity to improve the overall knowledge and experience of our members.
 
-*“Karate is a form of martial arts in which people who have had years and years of training can using only their hands and feet make some of the worst movies in the history of the world.” ― Dave Barry*
-
 ## Katas
 
 We teach Katas from three different styles of Karate: Goju Ryu, Shotokan and Chito Ryu. Grading requirements for each rank are summarized below.

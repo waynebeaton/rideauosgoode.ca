@@ -1,9 +1,12 @@
-baseURL = "./"
+baseURL = "/"
 languageCode = "en-us"
 title = "Rideau Osgoode Martial Arts"
 theme = "ananke"
-relativeURLs = true
+xrelativeURLs = true
+canonifyURLs = true
+email="info@rideauosgoode.ca"
 
 [params]
-  favicon = "images/bullet.png"
+  favicon = "images/romac6-100x100.png"
   custom_css = ["css/custom.css"]
+  facebook = "https://www.facebook.com/rideauosgoode/"
