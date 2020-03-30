@@ -11,7 +11,7 @@ Jiujitsu was originated as a Japanese martial art and a method of close combat f
 
 The instructors at our club come from a variety of Jiujitsu and martial arts backgrounds. This diversity in styles has allowed us to utilize a “best of breed” approach when selecting effective techniques to incorporate into our syllabus to teach. We teach a variety of techniques that use strikes, throws, joint locks, holds, and ground techniques including grappling, geared towards effective self defence in our modern day environment.
 
-Jiujitsu is a very physical, hands-on martial art and as such, the safety of the students is always our top priority. As such, all students must be able to both understand and follow the rules governing safety within the club. Students start off learning the basic ways to fall to prevent getting hurt. Beginning students learn basic self defense techniques and only advance when they have shown proficiency in the techniques they have learned.
+Jiujitsu is a very physical, hands-on martial art and as such, the safety of the students is always our top priority. All students must be able to both understand and follow the rules governing safety within the club. Students start off learning the basic ways to fall to prevent getting hurt. Beginning students learn basic self defense techniques and only advance when they have shown proficiency in the techniques they have learned.
 
 We also teach our students multiple conflict avoidance methods because we stress a “last-resort” self defence policy. This means that the techniques we teach are used only when all avenues to avoid conflict by the student have been exhausted.
 

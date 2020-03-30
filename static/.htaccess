@@ -1,1 +1,2 @@
 Redirect 302 /zoom https://eclipse.zoom.us/j/237856344
+Redirect 301 /calendar /schedule

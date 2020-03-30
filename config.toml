@@ -9,4 +9,6 @@ email="info@rideauosgoode.ca"
 [params]
   favicon = "images/romac6-100x100.png"
   custom_css = ["css/custom.css"]
+  youtube = "https://www.youtube.com/channel/UCrZdyA-q86-TcFrOZQ1m7cg"
   facebook = "https://www.facebook.com/rideauosgoode/"
+  github = "https://github.com/waynebeaton/rideauosgoode.ca"
