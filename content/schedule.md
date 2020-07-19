@@ -6,7 +6,11 @@ menu:
   }
 ---
 
-> Our classes are all canceled while our community deals with COVID-19. We are running some virtual classes during this time. 
+With Ontario now in Stage Three of our COVID-19 Response, the Dojo is opening for in-person training, but with some significant change in the way that we structure and schedule classes. Please see [COVID -19 Safety Instruction Protocols](/covid) for more information.
+
+Note that we are still running online (virtual) sessions at 7:00 pm on Tuesday and Thursday nights. Links for these sessions are in the corresponding calendar entries below.
+
+> Unfortunately we cannot facilitate drop-ins at this point-in-time. If you would like to attend one of these sessions, please send a note to [schedule@rideauosgoode.ca](schedule@rideauosgoode.ca) to book your spot.
 
 ## Upcoming Events and Classes
 
@@ -14,46 +18,42 @@ We have classes most days of the week. During the week, our classes are in the e
 
 <iframe src="https://calendar.google.com/calendar/embed?height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FToronto&amp;src=MTZxOGkybGpucXFsdHZ2MmY0N2E0bTBlbTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23A79B8E&amp;mode=AGENDA" style="border:solid 1px #777" width="800" height="300" frameborder="0" scrolling="no"></iframe>
 
-[Youth and family](/family) classes are appropriate for all ages. Parents are encouraged to attend with their children. Family classes are generally oriented to our younger students, but we do also normally leverage our relatively high teacher/student ratio to split classes into age and/or rank appropriate groups.
-
-Adult classes are intended for students in their late teens and older. Theses classes offer a higher level of intensity and generally more technical instruction.
-
-Members are invited to attend as many classes as they'd like (though we do recommend a minimum of two classes each week).
+> We will be setting up sessions for new members in August. Please stay tuned.
 
 ## Monday
 
-6:30-7:30pm Family Karate
+6:30-7:30 pm Karate
 
-7:45-9:00pm Kobudo
+7:45-9:00 pm Kobudo
 
 ## Tuesday
 
-6:30-7:30pm Youth/Family Karate
+6:30-7:30 pm Karate
 
-7:45-9:00pm Adult Karate
+7:45-8:45 pm Black Belt Karate
 
 ## Wednesday
 
-6:30-7:30pm Jiujitsu
-
-7:45-9:30pm Kobudo Open Training (only on the **first** and **third** Wednesdays of the month)
+Special Events (see calendar)
 
 ## Thursday
 
-6:30-7:30pm Youth/Family Karate
+6:30-7:30 pm Kobudo
 
-7:45-9:00pm Adult Karate
+7:45-8:45 pm Karate
 
 ## Friday
 
-7:00-9:00pm Black Belt Karate (only on the **second** and **fourth** Fridays of the month)
-
-7:00-9:00pm Open training (only on the **first**, **third**, and **fifth** Fridays of the month)
+Special Events (see calendar)
 
 ## Saturday
 
-8:00-9:00am Kobudo
+09:00-09:45 am Karate
 
-9:15-10:15am Youth/Family Karate
+10:00-10:45 am Karate
 
-10:30-11:30am Jiujitsu
+11:00-11:45 am Karate
+
+## Sunday
+
+Closed

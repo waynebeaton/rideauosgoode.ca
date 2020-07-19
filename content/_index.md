@@ -3,7 +3,7 @@ title: Rideau Osgoode Martial Arts
 featured_image: 'images/rideauosgoode.png'
 description: 
 ---
-> Our classes are all canceled while our community deals with COVID-19. We are running some virtual classes during this time. Please see the [schedule](/schedule) for more information.
+> With Ontario now in Stage Three of our COVID-19 Response, the Dojo is opening for in-person training, but with some significant change in the way that we structure and schedule classes. Please see [COVID -19 Safety Instruction Protocols](/covid) for more information.
 
 Rideau Osgoode Martial Arts  has served the community since 1991. We offer a family-friendly environment, with classes in traditional [Karate](/karate), [Jiujitsu](/jiujitsu), and [Kobudo](/kobudo) for members both young and old. Please see our [class schedule](/schedule).
 
