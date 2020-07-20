@@ -42,7 +42,6 @@ Wayne believes that the Dojo should be place of serious learning and training, b
 * **Sensei Christine Stigter**, Sandan 3rd degree black belt (EMAC)
 * **Sensei Devon Valentine**, Sandan 3rd degree black belt (EMAC)
 * **Sensei Katie Stigter**, Sandan 3rd degree black belt (EMAC)
-* **Sensei Pierre Patenaude**, Sandan 3rd degree black belt
 * **Sensei Jamie Munro**, Nidan 2nd degree black belt (EMAC)
 * **Sensei Brian Dyck**, Nidan 2nd degree black belt
 * **Sensei Bob Moon**, Shodan 1st degree black belt

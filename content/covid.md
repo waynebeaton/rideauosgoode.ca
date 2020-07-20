@@ -21,9 +21,9 @@ Masks must be worn while transiting into and out of the Dojo. Masks may be remov
 
 Upon entry, members and instructors must assert, by signing in using the sheet provided, that they:
 
-* are COVID-19 symptom free;
-* have not been in close contact with someone who is sick or has confirmed COVID-19 in the past fourteen days; and 
-* have not returned from travel outside Canada in the past fourteen days or have otherwise been compelled to quarantine due to government rules and regulations.
+* Are COVID-19 symptom free;
+* Have not been in close contact with someone who is sick or has confirmed COVID-19 in the past fourteen days; and 
+* Have not returned from travel outside Canada in the past fourteen days or have otherwise been compelled to quarantine due to government rules and regulations.
 
 No more than eight members and two instructors are permitted in the training area at any one time (the training area is approximately 150m<sup>2</sup> of space) at one time.
 
@@ -34,6 +34,35 @@ We will have two instructors in attendance for each class: one lead instructor a
 Members must ask permission to transit the training area during class (e.g., to go to the bathroom).
 
 The schedule leaves fifteen minutes in between every class. This time is intended to be used to clean the Dojo and prepare for the arrival of the next class, so members must leave promptly (sadly, socialization will have to be kept to a minimum). Some members may be asked to assist with the clean up.
+
+## Scheduling Your Session
+
+Our [calendar](/calendar) shows our class schedule. Determine which sessions that you’d like to attend and send a note to [schedule@rideauosgoode.ca](mailto:schedule@rideauosgoode.ca) with your request. Our schedulers will try to accommodate your request and let you know what we are able to book for you. Please attend the sessions that you book. If you cannot attend for any reason, please let us know, by sending a note to [schedule@rideauosgoode.ca](mailto:schedule@rideauosgoode.ca) as soon as possible.
+
+Monday
+
+* 6:30-7:30 pm Karate
+* 7:45-8:45 pm Kobudo
+
+Tuesday
+
+* 6:30-7:30 pm Karate
+* 7:45-8:45 pm Black and Brown Belt Karate
+
+Thursday
+
+* 6:30-7:30 pm Kobudo
+* 7:45-8:45 pm Karate
+
+Saturday
+
+* 09:00-09:45 am Karate
+* 10:00-10:45 am Karate
+* 11:00-11:45 am Karate
+
+Note that we currently have Wednesday and Friday set aside for special events.
+
+Note also that we continue to run our online Virtual Karate sessions at 7pm on Tuesday and Thursday nights. 
 
 ## Entry Protocol
 
