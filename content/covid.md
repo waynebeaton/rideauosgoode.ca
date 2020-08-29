@@ -25,7 +25,7 @@ Upon entry, members and instructors must assert, by signing in using the sheet p
 * Have not been in close contact with someone who is sick or has confirmed COVID-19 in the past fourteen days; and 
 * Have not returned from travel outside Canada in the past fourteen days or have otherwise been compelled to quarantine due to government rules and regulations.
 
-No more than eight members and two instructors are permitted in the training area at any one time (the training area is approximately 150m<sup>2</sup> of space) at one time.
+No more than eight members and two instructors are permitted in the training area at any one time (the training area is approximately 150m<sup>2</sup> of space).
 
 We have reconfigured the mats to designate individual training areas. Members must stay within their designated area. 
 
