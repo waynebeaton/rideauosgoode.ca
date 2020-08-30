@@ -3,7 +3,6 @@ title: "COVID -19 Safety Instruction Protocols"
 ---
 
 The instructors of Rideau Osgoode Martial Arts take the safety of our members and instructors seriously. In this challenging time, we have made a purposeful decision to be more careful than the government rules and regulations require. We thank you for your patience as we all work together to optimize our collective training experience under these circumstances.
-Overview
 
 This document outlines the procedures and processes that Rideau Osgoode Martial Arts has put in place to protect its instructors and members during the COVID-19 crisis. 
 
