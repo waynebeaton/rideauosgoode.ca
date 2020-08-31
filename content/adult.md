@@ -4,7 +4,7 @@ featured_image: /images/20200815_100011.jpg
 ---
 Rideau Osgoode Martial Arts is a family-orientated traditional martial arts club, located at 5673&nbsp;Osgoode&nbsp;Main&nbsp;St. (wedged between the Red Dot and the bank, and across from the Foodland). Our classes provide physical exercise, mental stimulation, and self defence strategies for our participants. Our members range in age from the youngest at seven years old (starting age) to our oldest members at 70+. Our [instructors](/instructors) are all Black Belt volunteers (male and female) who focus their classes on the abilities of the attendees.
 
-We are offering introductory Karate classes (at no cost) during the month of September 2020 focused on the 50+ age group. _Spaces are limited to ensure that safe social distancing can be maintained during our classes._ 
+We are offering introductory [Karate](/karate) classes (at no cost) during the month of September 2020 focused on the 50+ age group. _Spaces are limited to ensure that safe social distancing can be maintained during our classes._ 
 
 No prior experience is required. Beginners are always welcome, but please register in advance (sorry, no drop-ins during COVID-19). 
 

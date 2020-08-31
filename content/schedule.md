@@ -22,25 +22,29 @@ We have classes most days of the week. During the week, our classes are in the e
 
 ## Monday
 
-6:30-7:30 pm Karate
+11:00 am - 12:00 pm [Adult (50+) Karate](/adult)
 
-7:45-9:00 pm Kobudo
+6:30-7:30 pm [Karate](/karate)
+
+7:45-9:00 pm [Kobudo](/kobudo)
 
 ## Tuesday
 
-6:30-7:30 pm Karate
+6:30-7:30 pm [Karate](/karate)
 
-7:45-8:45 pm Black Belt Karate
+7:45-8:45 pm Black Belt [Karate](/karate)
 
 ## Wednesday
+
+11:00 am - 12:00 pm [Adult (50+) Karate](/adult)
 
 Special Events (see calendar)
 
 ## Thursday
 
-6:30-7:30 pm Kobudo
+6:30-7:30 pm [Kobudo](/kobudo)
 
-7:45-8:45 pm Karate
+7:45-8:45 pm [Karate](/karate)
 
 ## Friday
 
@@ -48,11 +52,11 @@ Special Events (see calendar)
 
 ## Saturday
 
-09:00-09:45 am Karate
+09:00-09:45 am [Karate](/karate)
 
-10:00-10:45 am Karate
+10:00-10:45 am [Karate](/karate)
 
-11:00-11:45 am Karate
+11:00-11:45 am [Karate](/karate)
 
 ## Sunday
 

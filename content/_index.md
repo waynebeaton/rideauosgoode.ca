@@ -17,6 +17,7 @@ Rideau Osgoode Martial Arts  has served the community since 1991. We offer a fam
 
 **Beginners and drop-ins are always welcome.** 
 
+**We have a new [Adult (50+) Karate](/adult) class**
 
 Located just south of Ottawa, the National Capital of Canada, Rideau Osgoode Martial Arts services the township of Osgoode with members from Metcalfe, Manotick, Greely, Mountain, North Gower, Osgoode, Kars, Kemptville, Heckston, and Ottawa.
 
