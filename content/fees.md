@@ -20,9 +20,7 @@ Existing members: all existing fees remain in place until December 2020.
 At the end of your first three months our renewal rate is:
 
 * Renewal (twelve months, single payment) **$600**
-* Renewal (twelve months, monthly payments) 12x**$55**
-    * by post-dated cheques, dated for the first of each month
-*  Renewal (three months, single payment) **$195**
+* Renewal (monthly) **$65**
 
 Valid until end the of December 2020. Fees include all taxes. A 10% discount will be applied for families of three or more active members.
 

@@ -64,3 +64,19 @@ table thead tr {
 blockquote p {
 	font-style: italic;
 }
+
+span.kobudo {
+	padding-right: 28px;
+	background-image: url("/images/sais.png");
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 24px 24px;
+}
+
+span.online {
+	padding-left: 25px;
+	background-image: url("/images/online.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 22px;
+}

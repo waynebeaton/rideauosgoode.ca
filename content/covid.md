@@ -1,5 +1,6 @@
 ---
 title: "COVID -19 Safety Instruction Protocols"
+featured_image: /images/20200719_123353.jpg
 ---
 
 The instructors of Rideau Osgoode Martial Arts take the safety of our members and instructors seriously. In this challenging time, we have made a purposeful decision to be more careful than the government rules and regulations require. We thank you for your patience as we all work together to optimize our collective training experience under these circumstances.
@@ -37,31 +38,6 @@ The schedule leaves fifteen minutes in between every class. This time is intende
 ## Scheduling Your Session
 
 Our [calendar](/calendar) shows our class schedule. Determine which sessions that you’d like to attend and send a note to [schedule@rideauosgoode.ca](mailto:schedule@rideauosgoode.ca) with your request. Our schedulers will try to accommodate your request and let you know what we are able to book for you. Please attend the sessions that you book. If you cannot attend for any reason, please let us know, by sending a note to [schedule@rideauosgoode.ca](mailto:schedule@rideauosgoode.ca) as soon as possible.
-
-Monday
-
-* 6:30-7:30 pm Karate
-* 7:45-8:45 pm Kobudo
-
-Tuesday
-
-* 6:30-7:30 pm Karate
-* 7:45-8:45 pm Black and Brown Belt Karate
-
-Thursday
-
-* 6:30-7:30 pm Kobudo
-* 7:45-8:45 pm Karate
-
-Saturday
-
-* 09:00-09:45 am Karate
-* 10:00-10:45 am Karate
-* 11:00-11:45 am Karate
-
-Note that we currently have Wednesday and Friday set aside for special events.
-
-Note also that we continue to run our online Virtual Karate sessions at 7pm on Tuesday and Thursday nights. 
 
 ## Entry Protocol
 
