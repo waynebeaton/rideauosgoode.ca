@@ -1,5 +1,5 @@
 ---
-title: "COVID -19 Safety Instruction Protocols"
+title: "COVID-19 Safety Instruction Protocols"
 featured_image: /images/20200719_123353.jpg
 ---
 

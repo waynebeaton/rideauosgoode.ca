@@ -15,7 +15,7 @@ Rideau Osgoode Martial Arts  has served the community since 1991. We offer a fam
 * Fun and friendly environment.
 * Classes for all ages.
 
-**Beginners and drop-ins are always welcome.** 
+**Beginners are always welcome.** 
 
 **We have a new [Adult (50+) Karate](/adult) class**
 

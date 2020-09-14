@@ -6,7 +6,7 @@ menu:
   }
 ---
 
-With Ontario now in Stage Three of our COVID-19 Response, the Dojo is opening for in-person training, but with some significant change in the way that we structure and schedule classes. Please see [COVID -19 Safety Instruction Protocols](/covid) for more information.
+With Ontario now in Stage Three of our COVID-19 Response, the Dojo is open for in-person training, but with some significant change in the way that we structure and schedule classes. Please see [COVID -19 Safety Instruction Protocols](/covid) for more information. We will continue to offer <span class="online">[online](/online)</span> training for the foreseeable future.
 
 > Unfortunately we cannot facilitate drop-ins at this point-in-time. If you would like to attend one of these sessions, please send a note to [schedule@rideauosgoode.ca](schedule@rideauosgoode.ca) to book your spot.
 

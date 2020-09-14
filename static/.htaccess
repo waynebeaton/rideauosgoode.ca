@@ -2,3 +2,7 @@ Redirect 302 /zoom https://eclipse.zoom.us/j/237856344?pwd=VWlqZzBrcjdMcUxNbnd1W
 Redirect 301 /calendar /schedule
 Redirect 302 /youtube https://www.youtube.com/channel/UCrZdyA-q86-TcFrOZQ1m7cg
 ErrorDocument 404 /404.html
+
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
