@@ -80,3 +80,12 @@ span.online {
 	background-position: left;
 	background-size: 22px;
 }
+
+a[href^="https://www.youtube.com/watch?"] {
+	padding-right: 25px;
+	background-image: url("/images/youtube.png");
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 22px;	
+}
+

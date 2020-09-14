@@ -74,4 +74,6 @@ steps:
 
 "To Attack and Destroy"
 
+Watch this Kata on [YouTube](https://www.youtube.com/watch?v=ahOYxZgUTn8&t=8s)
+
 The Geki Sai Kata were formulated by Chojun Miyagi Sensei in 1940 as a form of physical exercise for high school boys and to help popularize Goju-Ryu among the public of Okinawa. In 1948, after WWII, Miyagi Sensei began to teach the Geki Sai Kata in depth as a regular part of Goju-Ryu in his own dojo. Until this time, Sanchin was the first Kata taught in Goju-Ryu. [Sanchin Kata](../sanchin) is a physically and mentally demanding Kata that requires a great deal of time and patience to learn and perform properly. The Geki Sai Kata however are easier to learn and perform, and contain dynamic techniques which are more attractive to young people.
