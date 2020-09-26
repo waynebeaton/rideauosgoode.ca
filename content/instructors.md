@@ -8,7 +8,7 @@ menu:
 
 ## Chief Instructor
 
-Shihan **Wayne Beaton**, Rokudan 6th degree black belt (EMAC), started his martial arts career originally studying Wado Ryu (now Wado Kai) with Shihan Greg Reid in Victoria, British Columbia in 1982. Wayne moved to Ottawa in 1986 where studied under Sensei Claude Villeneuve and Sensei Raymond Deschamps, before connecting with Sensei Albert Ethier and the Rideau Osgoode Karate Club where he learned and trained for more than two decades before renaming the club to Rideau Osgoode Martial Arts and taking over the role of chief instructor. 
+Shihan **Wayne Beaton**, Rokudan 6th degree black belt (EMAC), started his martial arts career originally studying Wado Ryu (now Wado Kai) with Shihan Greg Reid in Victoria, British Columbia in 1982. Wayne moved to Ottawa in 1986 where he studied under Sensei Claude Villeneuve and Sensei Raymond Deschamps, before connecting with Sensei Albert Ethier and the Rideau Osgoode Karate Club where he learned and trained for more than two decades before renaming the club to Rideau Osgoode Martial Arts and taking over the role of chief instructor. 
 
 ![Shihan Wayne Beaton with Shihan Dan Bailey](/images/WayneAndDan.JPG#right)
 
