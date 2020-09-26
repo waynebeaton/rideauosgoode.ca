@@ -22,7 +22,7 @@ The following classes take effect, starting on September 8, 2020.
 
 ## Monday
 
-11:00-11:45am [Introduction to Karate for Adults (50+)](/adult)
+<!--  11:00-11:45am [Introduction to Karate for Adults (50+)](/adult) -->
 
 6:00-6:45 pm [Karate](/karate)
 
@@ -38,7 +38,7 @@ The following classes take effect, starting on September 8, 2020.
 
 ## Wednesday
 
-11:00-11:45am [Introduction to Karate for Adults (50+)](/adult)
+<!--  11:00-11:45am [Introduction to Karate for Adults (50+)](/adult) -->
 
 7:00-7:45 pm [Karate](/karate)
 
