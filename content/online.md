@@ -21,4 +21,4 @@ All Rideau Osgoode members are welcome to join our online training classes. No s
 
 New members are welcome to join a Zoom session to just watch a class or join in. If you're not already a member of Rideau Osgoode and are interested in attending our online sessions, send a note to [info@rideauosgoode.ca](mailto:info@rideauosgoode.ca).
 
-Online classes run on Tuesday and Thursday nights at 6 pm (please see our complete [schedule](/schedule)). To join a class, click <a href="/zoom" target="_blank">here</a>.
+Please see our schedule [schedule](/schedule) for class times. To join a class, click <a href="/zoom" target="_blank">here</a>.

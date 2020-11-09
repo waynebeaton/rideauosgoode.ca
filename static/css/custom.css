@@ -81,6 +81,9 @@ span.online {
 	background-size: 22px;
 }
 
+ul.romac {
+}
+
 a[href^="https://www.youtube.com/watch?"] {
 	padding-right: 25px;
 	background-image: url("/images/youtube.png");

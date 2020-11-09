@@ -6,9 +6,13 @@ menu:
   }
 ---
 
-With Ontario now in Stage Three of our COVID-19 Response, the Dojo is open for in-person training, but with some significant change in the way that we structure and schedule classes. Please see [COVID -19 Safety Instruction Protocols](/covid) for more information. We will continue to offer <span class="online">[online](/online)</span> training for the foreseeable future.
+> With the recent decision of the Ontario government to limit interaction our in-person training sessions have been temporarily suspended. We will restart in-person training when it is safe to do so. Thank you for your continued patience. 
+> 
+> In the meantime, we continue to offer on-line training.
 
-> Unfortunately we cannot facilitate drop-ins at this point-in-time. If you would like to attend one of these sessions, please send a note to [schedule@rideauosgoode.ca](schedule@rideauosgoode.ca) to book your spot.
+<!-- With Ontario now in Stage Three of our COVID-19 Response, the Dojo is open for in-person training, but with some significant change in the way that we structure and schedule classes. Please see [COVID-19 Safety Instruction Protocols](/covid) for more information. We will continue to offer <span class="online">[online](/online)</span> training for the foreseeable future.
+
+> Unfortunately we cannot facilitate drop-ins at this point-in-time. If you would like to attend one of these sessions, please send a note to [schedule@rideauosgoode.ca](schedule@rideauosgoode.ca) to book your spot. -->
 
 # Upcoming Events and Classes
 
@@ -18,57 +22,49 @@ We have classes most days of the week. The typical schedule of classes is listed
 
 # Schedule
 
-The following classes take effect, starting on September 8, 2020.
+The following classes take effect, starting on October 26, 2020.
 
 ## Monday
 
 <!--  11:00-11:45am [Introduction to Karate for Adults (50+)](/adult) -->
 
-6:00-6:45 pm [Karate](/karate)
+6:00-6:45 pm [Karate](/karate) (<span class="online">[online](/online)</span>)
 
-7:00-7:45 pm <span class="kobudo">[Kobudo](/kobudo)</span>
+7:00-7:45 pm <span class="kobudo">[Kobudo](/kobudo)</span> (<span class="online">[online](/online)</span>)
 
-8:00-8:45 pm Adult [Karate](/karate)
+8:00-8:45 pm Adult [Karate](/karate) (<span class="online">[online](/online)</span>)
 
 ## Tuesday
 
-6:00-6:45 pm [Karate](/karate) (in-person and <span class="online">[online](/online)</span>)
+6:00-6:45 pm [Karate](/karate) (<span class="online">[online](/online)</span>)
 
-7:00-8:45 pm Brown and Black Belt [Karate](/karate)
+7:00-8:45 pm Brown and Black Belt [Karate](/karate) (<span class="online">[online](/online)</span>)
 
 ## Wednesday
 
-<!--  11:00-11:45am [Introduction to Karate for Adults (50+)](/adult) -->
-
-7:00-7:45 pm [Karate](/karate)
-
-8:00-8:45 pm Adult [Karate](/karate)
+Dojo Closed. No Classes.
 
 ## Thursday
 
-6:00-6:45 pm [Karate](/karate) (in-person and <span class="online">[online](/online)</span>)
+6:00-6:45 pm [Karate](/karate) (<span class="online">[online](/online)</span>)
 
-7:00-7:45 pm [Karate](/karate)
+7:00-7:45 pm [Karate](/karate) (<span class="online">[online](/online)</span>)
 
-8:00-8:45 pm <span class="kobudo">[Kobudo](/kobudo)</span>
+8:00-8:45 pm <span class="kobudo">[Kobudo](/kobudo)</span> (<span class="online">[online](/online)</span>)
 
 ## Friday
 
 On the first and third Friday of every month:
 
-7:00-9:00 pm Black Belt <span class="kobudo">[Kobudo](/kobudo)</span>
+7:00-9:00 pm Black Belt <span class="kobudo">[Kobudo](/kobudo)</span> (<span class="online">[online](/online)</span>)
 
 On the second and fourth Friday of every month:
 
-7:00-9:00 pm Open Training
+7:00-9:00 pm Open Training (<span class="online">[online](/online)</span>)
 
 ## Saturday
 
-09:00-09:45 am [Karate](/karate)
-
-10:00-10:45 am [Karate](/karate)
-
-11:00-11:45 am [Karate](/karate)
+10:00-10:45 am [Karate](/karate) (<span class="online">[online](/online)</span>)
 
 ## Sunday
 
