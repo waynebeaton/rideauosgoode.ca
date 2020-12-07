@@ -14,7 +14,7 @@ menu:
 
 With Ontario now in Stage Three of our COVID-19 Response, the Dojo is open for in-person training, but with some significant change in the way that we structure and schedule classes. Please see [COVID-19 Safety Instruction Protocols](/covid) for more information. We will continue to offer <span class="online">[online](/online)</span> training for the foreseeable future.
 
-> Unfortunately we cannot facilitate drop-ins at this point-in-time. If you would like to attend one of these sessions, please send a note to [schedule@rideauosgoode.ca](schedule@rideauosgoode.ca) to book your spot.
+> Unfortunately we cannot facilitate drop-ins at this point-in-time. If you would like to attend one of these sessions, please send a note to [schedule@rideauosgoode.ca](mailto:schedule@rideauosgoode.ca) to book your spot.
 
 # Upcoming Events and Classes
 
@@ -44,7 +44,7 @@ The following classes take effect, starting on November 9, 2020.
 
 ## Wednesday
 
-Dojo Closed. No Classes.
+7:00-7:45 pm [Karate](/karate) (in-person)
 
 ## Thursday
 
@@ -60,11 +60,10 @@ On the _first and third_ Friday of every month:
 
 7:00-9:00 pm Black Belt <span class="kobudo">[Kobudo](/kobudo)</span> (in-person)
 
-<!--
 On the second and fourth Friday of every month:
 
-7:00-9:00 pm Open Training (<span class="online">[online](/online)</span>)
--->
+7:00-9:00 pm Open Training (in-person)
+
 ## Saturday
 
 09:00-10:45 am [Karate](/karate) (in-person)
