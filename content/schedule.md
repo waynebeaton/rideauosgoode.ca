@@ -27,7 +27,7 @@ We have classes most days of the week. The typical schedule of classes is listed
 
 # Schedule
 
-The following classes take effect, starting in April 2021.
+The following classes take effect, starting in June 2021.
 
 ## Monday
 
@@ -44,8 +44,6 @@ The following classes take effect, starting in April 2021.
 ## Tuesday
 
 7:00-7:45 pm White to Orange [Karate](/karate) (<!-- in-person and --><span class="online">[online](/online)</span>)
-
-8:00-8:45 pm Brown and Black Belt [Karate](/karate) (<!-- in-person and --><span class="online">[online](/online)</span>)
 
 ## Wednesday
 
@@ -67,17 +65,16 @@ The following classes take effect, starting in April 2021.
 
 ## Friday
 
-Closed.
-
 <!--
 On the _first and third_ Friday of every month:
 
 7:00-9:00 pm Black Belt <span class="kobudo">[Kobudo](/kobudo)</span> (in-person)
 
 On the _second and fourth_ Friday of every month:
-
-7:00-9:00 pm Open Training (in-person)
 -->
+
+7:00-8:00 pm Open Training (<span class="online">[online](/online)</span>)
+
 ## Saturday
 
 09:00-10:45 am [Karate](/karate) (<!-- in-person and --><span class="online">[online](/online)</span>)
